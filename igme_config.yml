@@ -12,7 +12,7 @@ extra_resources:
   - link: http://stackoverflow.com/questions/4421706/operator-overloading/4421715#4421715
     title: A huge stack overflow page about operator overloading, when and how to do it.
 connections:
-  - series: Basic C++
+  - series: Intermediate C++
     title: Bitwise Operators
   - series: Basic C++
     title: Overloading
