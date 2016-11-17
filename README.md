@@ -1,4 +1,4 @@
-# Basic C++: Operator Overloading
+# Intermediate C++: Operator Overloading
 
 Contains a demo of using operator overloading to define a fraction class.
 Shows operator overloading as member and non member, and usage of const correctness.
